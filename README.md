@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jude Ivan Besmonte</h1>
-<h3 align="center">📚 4th year Computer Science Student** 🏫 University of Santo Tomas - Legazpi 🏠 Bacacay, Albay, Philippines</h3>
+<h3 align="center"> An aspiring full-stack developer and student who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies. With a curious mindset, I'm constantly expanding my skills and embracing new challenges.</h3>
 
 - 🌱 I’m currently learning **Next.js, Tailwind, TypeScript**
 
