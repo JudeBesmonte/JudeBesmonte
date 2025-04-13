@@ -1,6 +1,6 @@
 # Hi there, I'm Jude Ivan Besmonte 👋
 
-An aspiring full-stack developer and student from the Philippines 🇵🇭 who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies. With a curious mindset, I'm constantly expanding my skills and embracing new challenges.
+An aspiring full-stack developer and student from the Philippines 🇵🇭 who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies.
 
 ---
 
