@@ -30,12 +30,12 @@ Here are some of the languages and tools I work with:
 
 ---
 
-## 📊 GitHub Stats & Languages 
+## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=judebesmonte&show_icons=true&theme=tokyonight" alt="Jude Besmonte's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=judebesmonte&show_icons=true&theme=tokyonight&cache_bust=true" alt="Jude Besmonte's GitHub Stats" />
   <br/> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judebesmonte&layout=compact&theme=tokyonight" alt="Jude Besmonte's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judebesmonte&layout=compact&theme=tokyonight&cache_bust=true" alt="Jude Besmonte's Top Languages" />
 </p>
 
 
