@@ -2,14 +2,8 @@
 <h3 align="center">An Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  <img alt="Coding Animation" width="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+  <img alt="Coding Animation" width="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Serif+Pro&size=30&duration=3000&pause=1000&color=00DA22&center=true&vCenter=true&width=435&lines=Building+dynamic,+user-friendly+applications." alt="Typing SVG" />
-  </a>
-</div>
 
 <p align="center">
   A student from the Philippines 🇵🇭 who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies.
