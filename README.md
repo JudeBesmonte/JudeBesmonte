@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jude Ivan Besmonte</h1>
 <h3 align="center">An Aspiring Full-Stack Developer</h3>
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <p align="center">
-  <img alt="Coding" width="200" src="https://media3.giphy.com/media/cmCEsJZHYBPels360q/giphy.webp?cid=790b7611de45amwozfo05vldfccd96obl9n1sbarhj81kjff&ep=v1_stickers_search&rid=giphy.webp&ct=s">
+  <img alt="Coding Animation" width="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 </p>
 
 <div align="center">
@@ -119,4 +116,4 @@ I'm focused on expanding my skillset with modern web technologies:
 
 <p align="center">© 2025 Jude Ivan Besmonte. All rights reserved.</p>
 
-<img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/line-neon.gif" width="100%">
+<img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="100%">
