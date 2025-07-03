@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  <img alt="Coding Animation" width="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img alt="Developer at Work Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </p>
 
 <p align="center">
