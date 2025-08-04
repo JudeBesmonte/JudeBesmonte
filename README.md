@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jude Ivan Besmonte</h1>
-<h3 align="center">An Aspiring Full-Stack Developer</h3>
+# Hi 👋, I'm Jude Ivan Besmonte
+### An Aspiring Full-Stack Developer
 
 <p align="center">
   <img alt="Developer at Work Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
@@ -83,10 +83,6 @@ I'm focused on expanding my skillset with modern web technologies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=judebesmonte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Contribution Graph
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=judebesmonte&theme=tokyo-night"/>
-
 ---
 
 ## 🔗 Connect With Me
@@ -101,11 +97,7 @@ I'm focused on expanding my skillset with modern web technologies:
 </p>
 
 <div align="center">
-  <i>"Good code is its own best documentation." - Steve McConnell</i>
-</div>
-
-<div align="center">
-  <img height="30" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
+  <span style="color: blue;">Thanks for stopping by my profile!</span>
 </div>
 
 <p align="center">© 2025 Jude Ivan Besmonte. All rights reserved.</p>
