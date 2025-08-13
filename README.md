@@ -64,26 +64,7 @@ I'm focused on expanding my skillset with modern web technologies:
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judebesmonte&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/judebesmonte?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=judebesmonte&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&cache_bust=true" width="48%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/judebesmonte?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=judebesmonte&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=judebesmonte&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🔗 Connect With Me
 
