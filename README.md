@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Hi 👋, I'm Jude Ivan Besmonte
-</p>
+</h1>
 <p align="center">
   An Aspiring Full-Stack Developer
 </p>
