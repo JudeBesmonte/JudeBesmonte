@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  A student from the Philippines 🇵🇭 who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies.
+  A Junior Software Developer from the Philippines 🇵🇭 who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies.
 </p>
 
 ---
