@@ -33,10 +33,6 @@ I'm focused on expanding my skillset with modern web technologies:
         <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="icon" width="40" height="40" />
-      <br>.NET
-    </td>
-    <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="icon" width="40" height="40" />
         <br>Java
     </td>
@@ -44,8 +40,6 @@ I'm focused on expanding my skillset with modern web technologies:
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
         <br>MySQL
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="40" height="40" />
         <br>Node.js
@@ -58,12 +52,12 @@ I'm focused on expanding my skillset with modern web technologies:
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
         <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
         <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
         <br>CSS
@@ -80,8 +74,6 @@ I'm focused on expanding my skillset with modern web technologies:
         <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="40" height="40" />
         <br>Selenium
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cypress" alt="icon" width="40" height="40" />
         <br>Cypress
