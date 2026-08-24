@@ -11,7 +11,10 @@
 </p>
 
 <p align="center">
-  A Junior Software Developer from the Philippines 🇵🇭 who loves learning and creativity. I thrive on building dynamic, user-friendly applications and enjoy exploring both front-end and back-end technologies.
+  Junior Software Engineer with hands-on experience in full-stack development, building responsive, 
+user-friendly interfaces using React.js, Next.js, and TypeScript. Comfortable working in fast-paced 
+environments where accuracy and attention to detail matter. A quick learner who adapts easily to new tools, 
+systems, and team workflows. 
 </p>
 
 ---
