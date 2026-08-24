@@ -4,12 +4,10 @@
   </a>
 </p>
 <p align="center">
-
 </p>
 <p align="center">
   <img alt="Developer at Work Animation" width="600" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 </p>
-
 <p align="center">
   Junior Software Engineer with hands-on experience in full-stack development, building responsive, 
 user-friendly interfaces using React.js, Next.js, and TypeScript. Comfortable working in fast-paced 
@@ -20,9 +18,7 @@ systems, and team workflows.
 ---
 
 ## 🌱 Currently Learning
-
 I'm focused on expanding my skillset with modern web technologies:
-
 * Next.js
 * Tailwind CSS
 * TypeScript
@@ -30,7 +26,6 @@ I'm focused on expanding my skillset with modern web technologies:
 ---
 
 ## 🛠️ Skills & Technologies
-
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -68,12 +63,35 @@ I'm focused on expanding my skillset with modern web technologies:
         <br>TypeScript
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+        <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
+        <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="40" height="40" />
+        <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="40" height="40" />
+        <br>Selenium
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cypress" alt="icon" width="40" height="40" />
+        <br>Cypress
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🔗 Connect With Me
-
 <p align="center">
   <a href="mailto:juddebesmonte@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
@@ -86,7 +104,6 @@ I'm focused on expanding my skillset with modern web technologies:
 <div align="center">
   <span style="color: blue;">Thanks for stopping by my profile!</span>
 </div>
-
 <p align="center">© 2025 Jude Ivan Besmonte. All rights reserved.</p>
 
 <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/line-neon.gif" width="100%">
