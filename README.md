@@ -88,8 +88,8 @@ I'm focused on expanding my skillset with modern web technologies:
   <a href="mailto:juddebesmonte@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" alt="Email"/>
   </a>
-  <a href="https://instagram.com/aiiiivan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/jude-ivan-besmonte-916483281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
