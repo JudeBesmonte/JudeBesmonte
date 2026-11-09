@@ -29,7 +29,7 @@ I'm focused on expanding my skillset with modern web technologies:
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="40" height="40" />
         <br>C#
     </td>
     <td align="center" width="96">
@@ -37,7 +37,7 @@ I'm focused on expanding my skillset with modern web technologies:
         <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" />
         <br>MySQL
     </td>
     <td align="center" width="96">
@@ -49,13 +49,13 @@ I'm focused on expanding my skillset with modern web technologies:
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
         <br>React
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="40" height="40" />
         <br>TypeScript
     </td>
     <td align="center" width="96">
